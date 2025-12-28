@@ -23,8 +23,8 @@ A boilerplate FastAPI application with essential features for building modern we
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-fastapi-project.git
-   cd your-fastapi-project
+   git clone https://github.com/CodemHax/FastApi-boilerplate.git
+   cd FastApi-boilerplate
    ```
 
 2. Create a virtual environment:
